@@ -32,6 +32,7 @@ build/Release
 node_modules
 
 .webpack.json
+.idea
 
 
 app/ts/ChatExampleData.js
